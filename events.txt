@@ -1,0 +1,198 @@
+#-------------------------------------------\n
+#---------- OCTOBER 2018 SCHEDULE\n
+#Summoning Focus\n
+Focus: Tempest Trials;11/10/2018;star\n
+Focus: New Power;17/10/2018;star\n
+Focus: New Heroes;23/10/2018;star\n
+Focus: Legendary Hero;31/10/2018;star\n
+Focus: Ephraim & Myrrh;18/10/2018;star\n
+Focus: Smoke Skills;29/10/2018;star\n
+Focus: Drive Atk;06/11/2018;star\n
+Focus: New Heroes;09/11/2018;star\n
+#Special Events\n
+Illusory Dungeon;12/10/2018;music\n
+BHB Revival: Tiki & Nowi;03/11/2018;default\n
+Tempest Trials: Familiar Faces;17/10/2018;default\n
+BHB: Ephraim & Myrrh;18/10/2018;default\n
+GHB: New Hero;25/10/2018;default\n
+GHB Revival: Kana;13/10/2018;default\n
+Grand Conquests;21/10/2018;spears\n
+Voting Gauntlet;01/11/2018;vote\n
+Legendary Hero Battle;31/10/2018;default\n
+Forging Bonds;27/10/2018;default\n
+#Quests\n
+Water Blessing Quests;30/10/2018;quest\n
+Movement Type Quests;05/11/2018;quest\n
+Monthly: November;01/11/2018;quest\n
+#Log-In Bonus\n
+Bonus: Tempest Trials;11/10/2018;orb\n
+Bonus: New Heroes;23/10/2018;orb\n
+Bonus: New Heroes;09/11/2018;orb\n
+Bonus: Voting Gauntlet;28/10/2018;orb\n
+Special Orb Promo: November;09/11/2018;orb\n
+#-------------------------------------------\n
+#---------- SEPTEMBER 2018 SCHEDULE\n
+#Summoning Focus\n
+Focus: Tempest Trials;08/09/2018;star\n
+Focus: New Heroes;14/09/2018;star\n
+Focus: New Heroes;21/09/2018;star\n
+Focus: Legendary Hero;28/09/2018;star\n
+Focus: Swift Sparrow;25/08/2018;star\n
+Focus: New Power;16/09/2018;star\n
+Focus: Ploy Skills;06/10/2018;star\n
+Focus: Ishtar & Reinhardt;04/10/2018;star\n
+Focus: Special Heroes;10/10/2018;star\n
+#Special Events\n
+Illusory Dungeon;09/09/2018;music\n
+BHB Revival: Chrom & Lissa;12/09/2018;default\n
+Tempest Trials: Doorway to Destiny;11/09/2018;default\n
+BHB: Ishtar & Reinhardt;04/10/2018;default\n
+GHB: New Hero;20/09/2018;default\n
+GHB Revival: Saias;27/09/2018;default\n
+Grand Conquests;26/09/2018;spears\n
+Voting Gauntlet;02/10/2018;vote\n
+Legendary Hero Battle;28/09/2018;default\n
+Forging Bonds;18/09/2018;default\n
+#Quests\n
+Book II Quests;22/09/2018;quest\n
+Three Heroes Quests;08/10/2018;quest\n
+Monthly: October;01/10/2018;quest\n
+#Log-In Bonus\n
+Bonus: Tempest Trials;08/09/2018;orb\n
+Bonus: New Heroes;14/09/2018;orb\n
+Bonus: New Heroes;21/09/2018;orb\n
+Bonus: Special Heroes;10/10/2018;orb\n
+Bonus: Voting Gauntlet;29/09/2018;orb\n
+Special Orb Promo: October;10/10/2018;orb\n
+#-------------------------------------------\n
+#---------- AUGUST 2018 SCHEDULE\n
+#Summoning Focus\n
+Focus: Micaiah & Sothe;20/08/2018;star\n
+Focus: New Heroes;21/08/2018;star\n
+Focus: Legendary Hero;28/08/2018;star\n
+Focus: Healing Skills;26/08/2018;star\n
+Focus: Fury;06/09/2018;star\n
+Focus: New Heroes;07/09/2018;star\n
+#Special Events\n
+Illusory Dungeon;11/08/2018;music\n
+BHB Revival: Corrin & Azura;13/08/2018;default\n
+Tempest Trials: Chaos Named;14/08/2018;default\n
+BHB: Micaiah & Sothe;20/08/2018;default\n
+GHB: New Hero;04/09/2018;default\n
+Voting Gauntlet;06/08/2018;vote\n
+Grand Conquests;29/08/2018;spears\n
+Legendary Hero Battle;28/08/2018;default\n
+Forging Bonds;24/08/2018;default\n
+#Quests\n
+Weapon Workout Quests;17/08/2018;quest\n
+Order of Heroes Quests;31/08/2018;quest\n
+Monthly: September;01/09/2018;quest\n
+#Log-In Bonus\n
+Bonus: Tempest Trials;12/08/2018;orb\n
+Bonus: New Heroes;21/08/2018;orb\n
+Bonus: New Heroes;07/09/2018;orb\n
+Bonus: Voting Gauntlet;01/09/2018;orb\n
+Special Orb Promo: September;07/09/2018;orb\n
+#-------------------------------------------\n
+#---------- SUMMER 2018 SCHEDULE\n
+#Summoning Focus\n
+Daily: Azura, Cecilia, Hinata, Titania;02/08/2018;star\n
+Daily: Gordin, Lon'qu, Reinhardt;03/08/2018;star\n
+Daily: Eldigan, Bartre, Jagen;04/08/2018;star\n
+Daily: Corrin, Nino, Sanaki;05/08/2018;star\n
+Daily: Leo, Klein, Subaki;06/08/2018;star\n
+Daily: Jaffar, Hana, Minerva;07/08/2018;star\n
+Daily: Tharja, Odin, Nino;08/08/2018;star\n
+Daily: Ephraim, Peri, Raven;09/08/2018;star\n
+Daily: Klein, Effie, Hawkeye;10/08/2018;star\n
+Daily: Jaffar, Takumi, Shanna;11/08/2018;star\n
+Daily: Caeda, Minerva, Hinoka;12/08/2018;star\n
+Daily: Delthea, Klein, Elincia;13/08/2018;star\n
+Daily: Nephenee, Karel, Sonya;14/08/2018;star\n
+Daily: Lyn, Takumi, Ephraim;15/08/2018;star\n
+Daily: Jaffar, Minerva, Eldigan;16/08/2018;star\n
+#Special Events\n
+Daily Reward Maps;02/08/2018;default\n
+Tempest Trials;14/08/2018;default\n
+New Arena Tier;14/08/2018;swords\n
+Forging Bonds Event;23/07/2018;default\n
+#Log-In Bonus\n
+Bonus: Summer #1;02/08/2018;orb\n
+Bonus: Summer #2;16/08/2018;orb\n
+Event Gift: 20 Orbs;23/07/2018;orb\n
+#-------------------------------------------\n
+#---------- JULY 2018 SCHEDULE\n
+#Summoning Focus\n
+Focus: Leo & Elise;22/07/2018;star\n
+Focus: New Heroes;20/07/2018;star\n
+Focus: New Power;17/07/2018;star\n
+Focus: Distant Def;27/07/2018;star\n
+Focus: Legendary Hero;31/07/2018;star\n
+Focus: Fighter Skills;07/08/2018;star\n
+Focus: Special Heroes;10/08/2018;star\n
+#Special Events\n
+Illusory Dungeon;11/06/2018;music\n
+BHB Revival: Raven & Lucius;12/07/2018;default\n
+Tempest Trials: Sweet Dreams;15/07/2018;default\n
+BHB: Leo & Elise;22/07/2018;default\n
+GHB: Walhart;29/07/2018;default\n
+GHB Revival: Evil Takumi;06/08/2018;default\n
+Grand Conquests;01/08/2018;spears\n
+Legendary Hero Battle;31/07/2018;default\n
+#Quests\n
+Arena Quests;25/07/2018;quest\n
+Three Heroes Quests;05/08/2018;quest\n
+Monthly: August;01/08/2018;quest\n
+#Log-In Bonus\n
+Bonus: Tempest Trials;13/07/2018;orb\n
+Bonus: New Heroes;20/07/2018;orb\n
+Bonus: Special Heroes;10/08/2018;orb\n
+Special Orb Promo: August;10/08/2018;orb\n
+#---------- JUNE 2018 SCHEDULE\n
+#Summoning Focus\n
+Focus: Tempest Trials;13/06/2018;star\n
+Focus: Death Blow;23/06/2018;star\n
+Focus: Luna;06/07/2018;star\n
+Focus: Legendary Hero;28/06/2018;star\n
+Focus: Hector & Matthew;05/07/2018;star\n
+Focus: Special Heroes;21/06/2018;star\n
+Focus: Special Heroes;10/07/2018;star\n
+#Special Events\n
+Illusory Dungeon;11/06/2018;music\n
+Tempest Trials: Feud of the Fangs;16/06/2018;default\n
+GHB: Linus;12/06/2018;default\n
+GHB Revival: Oliver;19/06/2018;default\n
+GHB Revival: Lyon;29/06/2018;default\n
+Legendary Hero Battle;28/06/2018;default\n
+Grand Conquests;26/06/2018;spears\n
+Voting Gauntlet;02/07/2018;vote\n
+BHB: Hector & Matthew;05/07/2018;default\n
+#Quests\n
+Weekly Arena Quests;14/06/2018;quest\n
+Fire Blessing Quests;03/07/2018;quest\n
+Monthly: July;01/07/2018;quest\n
+#Log-In Bonus\n
+Bonus: Tempest Trials;13/06/2018;orb\n
+Bonus: Voting Gauntlet;29/06/2018;orb\n
+Bonus: Special Heroes;21/06/2018;orb\n
+Bonus: Special Heroes;10/07/2018;orb\n
+#-------------------------------------------\n
+#---------- MAY 2018 SCHEDULE\n
+# Summoning Focus\n
+Focus: Special Heroes;21/05/2018;star\n
+Focus: Tempest Trials;22/05/2018;star\n
+Focus: Stance Skills;27/05/2018;star\n
+Focus: New Power;10/06/2018;star\n
+Focus: Legendary Ryoma;30/05/2018;star\n
+Focus: New Heroes;08/06/2018;star\n
+Focus: Seliph & Julia;05/06/2018;star\n
+# Special Events\n
+Voting Gauntlet;01/06/2018;vote\n
+Tempest Trials: Loki's Flames;25/05/2018;default\n
+BHB Revival: Amelia & Tana;23/05/2018;default\n
+Legendary Hero Battle;30/05/2018;default\n
+Special Maps: Four Heroes;08/06/2018;default\n
+BHB: Seliph & Julia;05/06/2018;default\n
+# Quests\n
+Heroes & Legends Quests;03/06/2018;quest\n
+Monthly: June;01/06/2018;quest\n
